@@ -5,7 +5,7 @@ export const Bio = {
     "I'm a Frontend Developer with over 3+ years of experience in building scalable, responsive web applications using React. I'm proficient in state management, API integration, and performance optimization, delivering user-centric and reliable solutions.",
   github: "https://github.com/Sawanyadav1208",
   resume:
-    "https://drive.google.com/file/d/1hWpgAKk9ca7TgDOmjNK2BeA1racmcAXE/view?usp=sharing",
+    "https://drive.google.com/file/d/1iEhdSiSAsi0LlDtTbSdS_BVMZ9HtwzID/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sawan-yadav-34862b219/",
   twitter: "https://www.linkedin.com/in/sawan-yadav-34862b219/",
   insta: "https://www.linkedin.com/in/sawan-yadav-34862b219/",
