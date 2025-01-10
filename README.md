@@ -15,4 +15,4 @@
 
 ### Link: https://portfolio-ten-lake-38.vercel.app/
 
-![image](https://github.com/user-attachments/assets/be42fe39-ab26-43e5-b452-e04e3dca9b6c)
+![image](https://github.com/user-attachments/assets/5b46e9a8-bed4-4199-8f22-a4921752459d)
