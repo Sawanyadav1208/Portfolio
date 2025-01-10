@@ -173,7 +173,7 @@ const Navbar = () => {
               Github
             </GithubButton>
             <GithubButton
-              href={Bio.github}
+              href={Bio.linkedin}
               target="_Blank"
               style={{
                 background: theme.primary,
