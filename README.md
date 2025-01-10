@@ -13,5 +13,3 @@
 
 - React.js, CSS3 Animations, HTML5, JavaScript
 
-![image](https://github.com/user-attachments/assets/6946f199-2b48-44a9-ad2a-479fb7eb3671)
-
